@@ -30,11 +30,6 @@ Este espaço foi criado para ajudar quem está aprendendo Power BI ou deseja mel
 ## ⚙️ Estrutura dos arquivos
 
 Os arquivos estão organizados por tema ou objetivo do dashboard.  
-Exemplos:
-
-- `vendas_restaurante.pbix` → Painel temático com KPIs de vendas em restaurantes
-- `eficiencia_energia.pbix` → Dashboard de eficiência solar com regra 60/30/10
-- `petshop_dashboard.pbix` → Exemplo de painel com layout “fofinho” e fontes personalizadas
 
 ---
 
@@ -44,7 +39,7 @@ Se você gosta de design de dashboards, siga meus conteúdos nas redes:
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nayarah)  
 - 📸 [Instagram](https://www.instagram.com/designbynayara)  
-- 📚 Ebook e dicas exclusivas no [designbynayara.com.br](https://designbynayara.com.br)  
+
 
 ---
 
