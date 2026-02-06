@@ -8,7 +8,6 @@ Um checklist prático com **42 verificações** de UX e DataViz para garantir qu
 
 É o mesmo processo que uso nos meus projetos de consultoria antes de entregar qualquer relatório. Cada item foi pensado para validar se o dashboard está realmente funcional para o usuário final.
 
-**Arquivo:** [`CHECKLIST_UX_DATAVIZ_POWER_BI.xlsx`](./CHECKLIST_UX_DATAVIZ_POWER_BI.xlsx)
 
 ---
 
