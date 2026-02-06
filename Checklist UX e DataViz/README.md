@@ -68,17 +68,6 @@ O checklist é baseado em conceitos de:
 - **SQLBI** — Boas práticas DAX e modelagem
 - **Microsoft Learn** — Documentação oficial Power BI
 
----
-
-## 🚀 Como contribuir
-
-Encontrou algo que pode melhorar? Quer sugerir um novo item?
-
-1. Faça um fork do repositório
-2. Crie uma branch (`git checkout -b melhoria/novo-item`)
-3. Commit suas alterações (`git commit -m 'Adiciona novo item na categoria X'`)
-4. Push para a branch (`git push origin melhoria/novo-item`)
-5. Abra um Pull Request
 
 ---
 
