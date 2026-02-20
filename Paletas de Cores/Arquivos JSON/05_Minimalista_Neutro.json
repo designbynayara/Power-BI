@@ -1,0 +1,24 @@
+{
+  "name": "Minimalista Neutro",
+  "dataColors": [
+    "#264653",
+    "#2A9D8F",
+    "#E9C46A",
+    "#F4A261",
+    "#E76F51",
+    "#606C38",
+    "#283618",
+    "#DDA15E",
+    "#BC6C25",
+    "#6C757D"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#212529",
+  "tableAccent": "#264653",
+  "good": "#2A9D8F",
+  "neutral": "#E9C46A",
+  "bad": "#E76F51",
+  "maximum": "#2A9D8F",
+  "center": "#E9C46A",
+  "minimum": "#E76F51"
+}

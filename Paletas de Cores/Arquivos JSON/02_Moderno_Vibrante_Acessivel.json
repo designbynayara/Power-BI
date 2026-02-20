@@ -1,0 +1,24 @@
+{
+  "name": "Moderno Vibrante (Acessível)",
+  "dataColors": [
+    "#0072B2",
+    "#CC79A7",
+    "#7B2D8E",
+    "#D55E00",
+    "#F0E442",
+    "#009E73",
+    "#56B4E9",
+    "#E69F00",
+    "#332288",
+    "#88CCEE"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1A1A2E",
+  "tableAccent": "#0072B2",
+  "good": "#009E73",
+  "neutral": "#F0E442",
+  "bad": "#CC79A7",
+  "maximum": "#009E73",
+  "center": "#F0E442",
+  "minimum": "#CC79A7"
+}
