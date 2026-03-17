@@ -1,0 +1,29 @@
+{
+  "name": "Executivo Dark",
+  "dataColors": [
+    "#00B4D8",
+    "#90E0EF",
+    "#CAF0F8",
+    "#FFB703",
+    "#FB8500",
+    "#E63946",
+    "#457B9D",
+    "#A8DADC",
+    "#1D3557",
+    "#F1FAEE"
+  ],
+  "background": "#0D1B2A",
+  "foreground": "#E0E1DD",
+  "tableAccent": "#00B4D8",
+  "good": "#00B4D8",
+  "neutral": "#FFB703",
+  "bad": "#E63946",
+  "maximum": "#00B4D8",
+  "center": "#FFB703",
+  "minimum": "#E63946",
+  "firstLevelElements": "#E0E1DD",
+  "secondLevelElements": "#778DA9",
+  "thirdLevelElements": "#415A77",
+  "fourthLevelElements": "#1B263B",
+  "secondaryBackground": "#1B263B"
+}
