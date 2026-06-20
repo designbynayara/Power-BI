@@ -1,0 +1,24 @@
+{
+  "name": "Minimalista Neutro (Acessível)",
+  "dataColors": [
+    "#264653",
+    "#0072B2",
+    "#E69F00",
+    "#56B4E9",
+    "#CC79A7",
+    "#009E73",
+    "#D55E00",
+    "#F0E442",
+    "#332288",
+    "#999999"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#212529",
+  "tableAccent": "#264653",
+  "good": "#009E73",
+  "neutral": "#E69F00",
+  "bad": "#D55E00",
+  "maximum": "#009E73",
+  "center": "#E69F00",
+  "minimum": "#D55E00"
+}

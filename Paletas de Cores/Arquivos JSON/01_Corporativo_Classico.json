@@ -1,0 +1,24 @@
+{
+  "name": "Corporativo Clássico",
+  "dataColors": [
+    "#2E4057",
+    "#048A81",
+    "#8DB580",
+    "#F4B942",
+    "#D96459",
+    "#5B8C5A",
+    "#3C91E6",
+    "#9B6B6C",
+    "#E8871E",
+    "#7C7C7C"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#2C3E50",
+  "tableAccent": "#2E4057",
+  "good": "#048A81",
+  "neutral": "#F4B942",
+  "bad": "#D96459",
+  "maximum": "#048A81",
+  "center": "#F4B942",
+  "minimum": "#D96459"
+}

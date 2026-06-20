@@ -1,0 +1,24 @@
+{
+  "name": "Corporativo Clássico (Acessível)",
+  "dataColors": [
+    "#1B3A5C",
+    "#0072B2",
+    "#56B4E9",
+    "#E69F00",
+    "#CC79A7",
+    "#009E73",
+    "#F0E442",
+    "#D55E00",
+    "#8C564B",
+    "#999999"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#2C3E50",
+  "tableAccent": "#1B3A5C",
+  "good": "#009E73",
+  "neutral": "#E69F00",
+  "bad": "#D55E00",
+  "maximum": "#009E73",
+  "center": "#E69F00",
+  "minimum": "#D55E00"
+}

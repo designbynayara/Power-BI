@@ -1,0 +1,29 @@
+{
+  "name": "Executivo Dark (Acessível)",
+  "dataColors": [
+    "#56B4E9",
+    "#E69F00",
+    "#CC79A7",
+    "#009E73",
+    "#F0E442",
+    "#0072B2",
+    "#D55E00",
+    "#88CCEE",
+    "#DDCC77",
+    "#999999"
+  ],
+  "background": "#0D1B2A",
+  "foreground": "#E0E1DD",
+  "tableAccent": "#56B4E9",
+  "good": "#009E73",
+  "neutral": "#E69F00",
+  "bad": "#CC79A7",
+  "maximum": "#009E73",
+  "center": "#E69F00",
+  "minimum": "#CC79A7",
+  "firstLevelElements": "#E0E1DD",
+  "secondLevelElements": "#778DA9",
+  "thirdLevelElements": "#415A77",
+  "fourthLevelElements": "#1B263B",
+  "secondaryBackground": "#1B263B"
+}

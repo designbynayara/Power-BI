@@ -1,0 +1,24 @@
+{
+  "name": "Natureza Sustentável",
+  "dataColors": [
+    "#2D6A4F",
+    "#40916C",
+    "#52B788",
+    "#74C69D",
+    "#95D5B2",
+    "#D8F3DC",
+    "#1B4332",
+    "#B7E4C7",
+    "#081C15",
+    "#8DB580"
+  ],
+  "background": "#FFFFFF",
+  "foreground": "#1B4332",
+  "tableAccent": "#2D6A4F",
+  "good": "#40916C",
+  "neutral": "#95D5B2",
+  "bad": "#081C15",
+  "maximum": "#2D6A4F",
+  "center": "#74C69D",
+  "minimum": "#D8F3DC"
+}
